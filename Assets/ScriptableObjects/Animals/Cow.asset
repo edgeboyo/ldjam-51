@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c953922887b475242be2a849024dfaa1, type: 3}
+  m_Name: Cow
+  m_EditorClassIdentifier: 
+  AnimalName: Cow
+  AnimalPrefab: {fileID: 3355003165883802224, guid: 7fd76d2e6782a6d41a047fdd54210eae,
+    type: 3}
+  AnimalBaseStats:
+    <MaxHealth>k__BackingField: 50
+    <AttackDamage>k__BackingField: 5
+    <AttackSpeed>k__BackingField: 1
+    <ProjectileSpeed>k__BackingField: 10
+    <MovementSpeed>k__BackingField: 7.5
+    <CriticalDamageMultiplier>k__BackingField: 2
+    <CriticalChance>k__BackingField: 0.05

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33aeb3a472024482b0d3df8902cbe58e, type: 3}
+  m_Name: MutationConfig
+  m_EditorClassIdentifier: 
+  <AvailablePlayerMutations>k__BackingField:
+  - {fileID: 11400000, guid: 0a5905b4373b8f04d9e26a018178cf3f, type: 2}
+  - {fileID: 11400000, guid: 7a389da18aae8044ebddabefbbce7edb, type: 2}
+  - {fileID: 11400000, guid: 682e76feb573c4c4089dea3adb5ffb7e, type: 2}
+  - {fileID: 11400000, guid: 4c2e714208f78d343a8034069501ba93, type: 2}
+  - {fileID: 11400000, guid: d28ab2ce8d0e6d04fabacd1f5ed8b875, type: 2}
+  - {fileID: 11400000, guid: f0b244640a1cf71418349d556882ccf8, type: 2}
+  - {fileID: 11400000, guid: 4f1f377830722574bacfab4996a217ad, type: 2}
+  - {fileID: 11400000, guid: 5e488ce2078b52a4cbc399911c06da35, type: 2}
+  - {fileID: 11400000, guid: 0a5905b4373b8f04d9e26a018178cf3f, type: 2}
+  <AvailableEnemyMutations>k__BackingField:
+  - {fileID: 11400000, guid: d79f6b03e79336343a09d6d421e1487c, type: 2}
+  - {fileID: 11400000, guid: 593b41a3fb3638f41b798909b979f436, type: 2}
+  - {fileID: 11400000, guid: a263eb286800f8b46a5e52fa7f1f4bca, type: 2}
+  - {fileID: 11400000, guid: 3c8dd99c88354b24e8eea7c910462629, type: 2}
+  <AvaliableAnimals>k__BackingField:
+  - {fileID: 11400000, guid: e700ea736e2640844a79ab292ed0af4a, type: 2}
+  - {fileID: 11400000, guid: 5585609643963ba4e81a13b3c1ee701b, type: 2}
+  - {fileID: 11400000, guid: 1c7bd08b2ba5efc4c8988f28897133c4, type: 2}
+  - {fileID: 11400000, guid: b4bd5e06ac98b1a4fa50916a1b7e06e9, type: 2}
+  - {fileID: 11400000, guid: 99de758838684d54b92dcd0d028501b0, type: 2}
+  - {fileID: 11400000, guid: 1a2d7492bceed1f4ea0c539243bd8e49, type: 2}
+  - {fileID: 11400000, guid: b5b42e83ef390f4419ce5e61f85c67a7, type: 2}
+  - {fileID: 11400000, guid: afcaaa9ed907c9e4bb3abb967cf5cc64, type: 2}
+  - {fileID: 11400000, guid: 9915f4cf45916dc448327b794a2a8e18, type: 2}
+  - {fileID: 11400000, guid: f7704c6ab5658cc4cb926b13db97c91f, type: 2}
